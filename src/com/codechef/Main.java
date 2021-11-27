@@ -50,3 +50,4 @@ public class Main {
         }
     }
 }
+// codechef problem to find the total expenses:
